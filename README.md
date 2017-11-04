@@ -65,9 +65,11 @@ Quang-Trung Ta, Ton Chanh Le, Siau-Cheng Khoo, Wei Ngan Chin
 
 Bonsai: Synthesis-Based Reasoning for Type Systems  
 Kartik Chandra, Rastislav Bodik  
+([preprint](https://arxiv.org/pdf/1708.00551) from [arXiv](https://arxiv.org/abs/1708.00551))
 
 Collapsing Towers of Interpreters  
 Nada Amin, Tiark Rompf  
+([draft](http://cs.purdue.edu/~rompf/papers/amin-draft2017a.pdf))
 
 Complete Verification with SMT  
 Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan Scott, Ryan R. Newton, Philip Wadler, Ranjit Jhala  
