@@ -211,6 +211,7 @@ Lionel Parreaux, Antoine Voizard, Amir Shaikhha, Christoph E. Koch
 
 Univalent Higher Categories via Complete Semi-Segal Types  
 Paolo Capriotti, Nicolai Kraus  
+([preprint](https://arxiv.org/pdf/1707.03693) from [arXiv](https://arxiv.org/abs/1707.03693))
 
 Up-to Techniques Using Sized Types  
 Nils Anders Danielsson  
