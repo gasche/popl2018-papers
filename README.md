@@ -73,6 +73,7 @@ Nada Amin, Tiark Rompf
 
 Complete Verification with SMT  
 Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan Scott, Ryan R. Newton, Philip Wadler, Ranjit Jhala  
+([preprint](https://nikivazou.github.io/static/popl18/refinement-reflection.pdf))
 
 Correctness of Speculative Optimizations with Dynamic Deoptimization  
 Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, Jan Vitek  
