@@ -31,6 +31,7 @@ the line.
 
 A Logical Relation for Monadic Encapsulation of State: Proving contextual equivalences in the presence of runST  
 Amin Timany, Leo Stefanesco, Morten Krogh-Jespersen, Lars Birkedal  
+([preprint](http://iris-project.org/pdfs/2018-popl-runST-submission.pdf))
 
 A Practical Construction for Decomposing Numerical Abstract Domains  
 Gagandeep Singh, Markus Püschel, Martin Vechev  
@@ -165,6 +166,7 @@ Hiroshi Unno, Yuki Satake, Tachio Terauchi
 
 RustBelt: Securing the Foundations of the Rust Programming Language  
 Ralf Jung, Jacques-Henri Jourdan, Robbert Krebbers, Derek Dreyer  
+([preprint](http://www.mpi-sws.org/%7Edreyer/papers/rustbelt/paper.pdf))
 
 Simplifying ARM Concurrency: Multicopy-atomic Axiomatic and Operational Models for ARMv8  
 Christopher Pulte, Shaked Flur, Will Deacon, Jon French, Susmit Sarkar, Peter Sewell  
