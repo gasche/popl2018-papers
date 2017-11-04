@@ -191,6 +191,7 @@ Lukas Holik, Anthony Widjaja Lin, Petr Janku, Philipp Ruemmer, Tomas Vojnar
 
 Symbolic Types for Lenient Symbolic Execution  
 Stephen Chang, Alex Knauth, Emina Torlak  
+([draft](http://www.ccs.neu.edu/home/stchang/pubs/ckt-popl2018.pdf), [website](http://www.ccs.neu.edu/home/stchang/popl2018/index.html))
 
 Synthesizing Bijective Lenses  
 Anders Miltner, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic  
