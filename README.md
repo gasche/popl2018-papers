@@ -207,6 +207,7 @@ Paolo Capriotti, Nicolai Kraus
 
 Up-to Techniques Using Sized Types  
 Nils Anders Danielsson  
+([draft](http://www.cse.chalmers.se/~nad/publications/danielsson-up-to-using-sized-types.pdf))
 
 Verifying Equivalence of Database-Driven Applications  
 Yuepeng Wang, Isil Dillig, Shuvendu K. Lahiri, William Cook  
