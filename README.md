@@ -48,6 +48,7 @@ Yangjia Li, Mingsheng Ying
 
 Alone Together: Compositional Reasoning and Inference for Weak Isolation  
 Gowtham Kaki, Mahsa Najafzadeh, Kartik Nagar, Suresh Jagannathan  
+([preprint](https://arxiv.org/pdf/1710.09844) from [arXiv](https://arxiv.org/abs/1710.09844))
 
 An Axiomatic Basis for Bidirectional Programming  
 Hsiang-Shang ‘Josh’ Ko, Zhenjiang Hu  
