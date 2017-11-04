@@ -61,6 +61,7 @@ Wenlei Bao, Sriram Krishnamoorthy, Louis-Noel Pouchet, P. (Saday) Sadayappan
 
 Automated Lemma Synthesis in Symbolic-Heap Separation Logic  
 Quang-Trung Ta, Ton Chanh Le, Siau-Cheng Khoo, Wei Ngan Chin  
+([preprint](https://arxiv.org/pdf/1710.09635) from [arXiv](https://arxiv.org/abs/1710.09635))
 
 Bonsai: Synthesis-Based Reasoning for Type Systems  
 Kartik Chandra, Rastislav Bodik  
