@@ -93,6 +93,7 @@ Michalis Kokologiannakis, Ori Lahav, Konstantinos Sagonas, Viktor Vafeiadis
 
 Foundations for Natural Proofs and Quantifier Instantiation  
 Christof Löding, P. Madhusudan, Lucas Peña  
+([preprint](http://madhu.cs.illinois.edu/FoundationsForNaturalProofs.pdf))
 
 Generating Good Generators for Inductive Relations  
 Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce  
