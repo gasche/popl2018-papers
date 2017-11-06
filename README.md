@@ -124,6 +124,7 @@ José Fragoso Santos, Philippa Gardner, Petar Maksimović, Daiva Naudziuniene, T
 
 Lexicographic Ranking Supermartingales: An Efficient Approach to Termination of Probabilistic Programs  
 Sheshansh Agrawal, Krishnendu Chatterjee, Petr Novotny  
+([preprint](https://arxiv.org/pdf/1709.04037) from [arXiv](https://arxiv.org/abs/1709.04037))
 
 Linear Haskell: practical linearity in a higher-order polymorphic language  
 Jean-Philippe Bernardy, Mathieu Boespflug, Ryan R. Newton, Simon Peyton Jones, Arnaud Spiwack  
