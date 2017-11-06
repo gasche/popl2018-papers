@@ -80,6 +80,7 @@ Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, Jan Vi
 
 Data-centric Dynamic Partial Order Reduction  
 Krishnendu Chatterjee, Marek Chalupa, Andreas Pavlogiannis, Nishant Sinha, Kapil Vaidya  
+([preprint](https://arxiv.org/pdf/1610.01188) from [arXiv](https://arxiv.org/abs/1610.01188))
 
 Decidability of Conversion for Type Theory in Type Theory  
 Andreas Abel, Andrea Vezzosi, Joakim Öhman  
