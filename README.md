@@ -176,6 +176,7 @@ Ralf Jung, Jacques-Henri Jourdan, Robbert Krebbers, Derek Dreyer
 
 Simplifying ARM Concurrency: Multicopy-atomic Axiomatic and Operational Models for ARMv8  
 Christopher Pulte, Shaked Flur, Will Deacon, Jon French, Susmit Sarkar, Peter Sewell  
+([draft](http://www.cl.cam.ac.uk/~pes20/armv8-mca/armv8-mca-draft.pdf), [website](http://www.cl.cam.ac.uk/~pes20/armv8-mca/))
 
 Soft Contract Verification for Higher-order Stateful Programs  
 Phúc C. Nguyễn, Thomas Gilray, Sam Tobin-Hochstadt, David Van Horn  
