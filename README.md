@@ -96,6 +96,7 @@ Christof Löding, P. Madhusudan, Lucas Peña
 
 Generating Good Generators for Inductive Relations  
 Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce  
+([preprint](https://www.cis.upenn.edu/~llamp/pdf/GeneratingGoodGenerators.pdf))
 
 Go with the Flow: Compositional Abstractions for Concurrent Data Structures  
 Siddharth Krishna, Dennis Shasha, Thomas Wies  
