@@ -120,6 +120,7 @@ Casper Bach Poulsen, Arjen Rouvoet, Andrew Tolmach, Robbert Krebbers, Eelco Viss
 
 JaVerT: JavaScript Verification Toolchain  
 José Fragoso Santos, Philippa Gardner, Petar Maksimović, Daiva Naudziuniene, Thomas Wood  
+([preprint](http://www.doc.ic.ac.uk/~jfaustin/javert.pdf))
 
 Lexicographic Ranking Supermartingales: An Efficient Approach to Termination of Probabilistic Programs  
 Sheshansh Agrawal, Krishnendu Chatterjee, Petr Novotny  
