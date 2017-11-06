@@ -110,6 +110,7 @@ Danel Ahman
 
 Higher-Order Constrained Horn Clauses for Verification  
 Toby Cathcart Burn, C.-H. Luke Ong, Steven Ramsay  
+([preprint](https://arxiv.org/pdf/1705.06216) from [arXiv](https://arxiv.org/abs/1705.06216))
 
 Inference of Static Semantics for Incomplete C Programs  
 Leandro T. C. Melo, Rodrigo Geraldo Ribeiro, Marcus Rodrigues de Araújo, Fernando Magno Quintão Pereira  
