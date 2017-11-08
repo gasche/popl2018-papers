@@ -137,6 +137,7 @@ Thomas Ehrhard, Michele Pagani, Christine Tasson
 
 Migrating Gradual Types  
 John Peter Campora III, Sheng Chen, Martin Erwig, Eric Walkingshaw  
+([preprint](http://web.engr.oregonstate.edu/~walkiner/papers/popl18-migrating-gradual-types.pdf))
 
 Monadic refinements for relational cost analysis  
 Ivan Radicek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Florian Zuleger  
