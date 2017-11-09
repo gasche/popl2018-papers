@@ -167,6 +167,7 @@ Xinyu Wang, Isil Dillig, Rishabh Singh
 
 Programming and Proving with Distributed Protocols  
 Ilya Sergey, James R. Wilcox, Zachary Tatlock  
+([preprint](https://homes.cs.washington.edu/~jrw12/disel.pdf))
 
 Progress of Concurrent Objects with Partial Methods  
 Hongjin Liang, Xinyu Feng  
