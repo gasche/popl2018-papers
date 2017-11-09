@@ -149,6 +149,7 @@ Jason Breck, John Cyphert, Zachary Kincaid, Thomas Reps
 
 On Automatically Proving the Correctness of math.h Implementations  
 Wonyeol Lee, Rahul Sharma, Alex Aiken  
+([preprint](http://theory.stanford.edu/~aiken/publications/papers/popl18.pdf))
 
 Online Detection of Effectively Callback Free Objects with Applications to Smart Contracts  
 Shelly Grossman, Ittai Abraham, Guy Golan-Gueta, Yan Michalevsky, Noam Rinetzky, Mooly Sagiv, Yoni Zohar  
