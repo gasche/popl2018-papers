@@ -174,6 +174,7 @@ Hongjin Liang, Xinyu Feng
 
 Proving expected sensitivity of probabilistic programs  
 Gilles Barthe, Thomas Espitau, Benjamin Gregoire, Justin Hsu, Pierre-Yves Strub  
+([preprint](https://arxiv.org/pdf/1708.02537.pdf) from [arXiv](https://arxiv.org/abs/1708.02537))
 
 Recalling a Witness: Foundations and Applications of Monotonic State  
 Danel Ahman, Cédric Fournet, Cătălin Hriţcu, Kenji Maillard, Aseem Rastogi, Nikhil Swamy  
