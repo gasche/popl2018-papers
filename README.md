@@ -149,12 +149,14 @@ Jason Breck, John Cyphert, Zachary Kincaid, Thomas Reps
 
 On Automatically Proving the Correctness of math.h Implementations  
 Wonyeol Lee, Rahul Sharma, Alex Aiken  
+([preprint](http://theory.stanford.edu/~aiken/publications/papers/popl18.pdf))
 
 Online Detection of Effectively Callback Free Objects with Applications to Smart Contracts  
 Shelly Grossman, Ittai Abraham, Guy Golan-Gueta, Yan Michalevsky, Noam Rinetzky, Mooly Sagiv, Yoni Zohar  
 
 Optimal Dyck Reachability for Data-dependence and Alias Analysis  
 Krishnendu Chatterjee, Andreas Pavlogiannis, Bhavya Choudhary  
+([preprint](https://repository.ist.ac.at/870/1/main.pdf))
 
 Parametricity versus the Universal Type  
 Dominique Devriese, Marco Patrignani, Frank Piessens  
@@ -165,12 +167,14 @@ Xinyu Wang, Isil Dillig, Rishabh Singh
 
 Programming and Proving with Distributed Protocols  
 Ilya Sergey, James R. Wilcox, Zachary Tatlock  
+([preprint](https://homes.cs.washington.edu/~jrw12/disel.pdf))
 
 Progress of Concurrent Objects with Partial Methods  
 Hongjin Liang, Xinyu Feng  
 
 Proving expected sensitivity of probabilistic programs  
 Gilles Barthe, Thomas Espitau, Benjamin Gregoire, Justin Hsu, Pierre-Yves Strub  
+([preprint](https://arxiv.org/pdf/1708.02537.pdf) from [arXiv](https://arxiv.org/abs/1708.02537))
 
 Recalling a Witness: Foundations and Applications of Monotonic State  
 Danel Ahman, Cédric Fournet, Cătălin Hriţcu, Kenji Maillard, Aseem Rastogi, Nikhil Swamy  
