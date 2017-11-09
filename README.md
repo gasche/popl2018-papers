@@ -77,6 +77,7 @@ Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan Scott, Ryan R. Newton, Ph
 
 Correctness of Speculative Optimizations with Dynamic Deoptimization  
 Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, Jan Vitek  
+([preprint](https://arxiv.org/pdf/1711.03050) from [arXiv](https://arxiv.org/abs/1711.03050))
 
 Data-centric Dynamic Partial Order Reduction  
 Krishnendu Chatterjee, Marek Chalupa, Andreas Pavlogiannis, Nishant Sinha, Kapil Vaidya  
