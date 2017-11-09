@@ -187,6 +187,14 @@ RustBelt: Securing the Foundations of the Rust Programming Language
 Ralf Jung, Jacques-Henri Jourdan, Robbert Krebbers, Derek Dreyer  
 ([preprint](http://www.mpi-sws.org/%7Edreyer/papers/rustbelt/paper.pdf))
 
+Safety and Conservativity of Definitions in HOL and Isabelle/HOL  
+Ondřej Kunčar, Andrei Popescu  
+([preprint](http://andreipopescu.uk/pdf/conserv_HOL_IsabelleHOL.pdf))
+
+Simplicitly: Foundations and Applications of Implicit Function Types  
+Martin Odersky, Olivier Blanvillain, Fengyun Liu, Aggelos Biboudis, Heather Miller, Sandro Stucki  
+([preprint](https://infoscience.epfl.ch/record/229878/files/simplicitly_1.pdf))
+
 Simplifying ARM Concurrency: Multicopy-atomic Axiomatic and Operational Models for ARMv8  
 Christopher Pulte, Shaked Flur, Will Deacon, Jon French, Susmit Sarkar, Peter Sewell  
 ([draft](http://www.cl.cam.ac.uk/~pes20/armv8-mca/armv8-mca-draft.pdf), [website](http://www.cl.cam.ac.uk/~pes20/armv8-mca/))
