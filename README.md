@@ -71,10 +71,6 @@ Collapsing Towers of Interpreters
 Nada Amin, Tiark Rompf  
 ([draft](http://cs.purdue.edu/~rompf/papers/amin-draft2017a.pdf))
 
-Complete Verification with SMT  
-Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan Scott, Ryan R. Newton, Philip Wadler, Ranjit Jhala  
-([preprint](https://nikivazou.github.io/static/popl18/refinement-reflection.pdf))
-
 Correctness of Speculative Optimizations with Dynamic Deoptimization  
 Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, Jan Vitek  
 ([preprint](https://arxiv.org/pdf/1711.03050) from [arXiv](https://arxiv.org/abs/1711.03050))
@@ -115,6 +111,7 @@ Toby Cathcart Burn, C.-H. Luke Ong, Steven Ramsay
 
 Inference of Static Semantics for Incomplete C Programs  
 Leandro T. C. Melo, Rodrigo Geraldo Ribeiro, Marcus Rodrigues de Araújo, Fernando Magno Quintão Pereira  
+([preprint](http://homepages.dcc.ufmg.br/~fernando/publications/papers/Leandro_POPL18.pdf))
 
 Intrinsically-Typed Definitional Interpreters for Imperative Languages  
 Casper Bach Poulsen, Arjen Rouvoet, Andrew Tolmach, Robbert Krebbers, Eelco Visser  
@@ -161,6 +158,9 @@ Krishnendu Chatterjee, Andreas Pavlogiannis, Bhavya Choudhary
 Parametricity versus the Universal Type  
 Dominique Devriese, Marco Patrignani, Frank Piessens  
 
+Polyadic Approximations, Fibrations and Intersection Types  
+Damiano Mazza, Luc Pellissier, Pierre Vial  
+
 Program Synthesis using Abstraction Refinement  
 Xinyu Wang, Isil Dillig, Rishabh Singh  
 ([preprint](https://arxiv.org/pdf/1710.07740) from [arXiv](https://arxiv.org/abs/1710.07740))
@@ -179,6 +179,13 @@ Gilles Barthe, Thomas Espitau, Benjamin Gregoire, Justin Hsu, Pierre-Yves Strub
 Recalling a Witness: Foundations and Applications of Monotonic State  
 Danel Ahman, Cédric Fournet, Cătălin Hriţcu, Kenji Maillard, Aseem Rastogi, Nikhil Swamy  
 ([preprint](https://arxiv.org/pdf/1707.02466) from [arXiv](https://arxiv.org/abs/1707.02466))
+
+Reducing Liveness to Safety in First-Order Logic  
+Oded Padon, Jochen Hoenicke, Giuliano Losa, Andreas Podelski, Mooly Sagiv, Sharon Shoham  
+
+Refinement Reflection: Complete Verification with SMT  
+Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan Scott, Ryan R. Newton, Philip Wadler, Ranjit Jhala  
+([preprint](https://nikivazou.github.io/static/popl18/refinement-reflection.pdf))
 
 Relatively Complete Refinement Type System for Verification of Higher-Order Non-Deterministic Programs  
 Hiroshi Unno, Yuki Satake, Tachio Terauchi  
@@ -217,6 +224,7 @@ Stephen Chang, Alex Knauth, Emina Torlak
 
 Synthesizing Bijective Lenses  
 Anders Miltner, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic  
+([preprint](https://arxiv.org/pdf/1707.02466) from [arXiv](https://arxiv.org/abs/1707.02466))
 
 Synthesizing Coupling Proofs of Differential Privacy  
 Aws Albarghouthi, Justin Hsu  
@@ -227,6 +235,9 @@ Brijesh Dongol, Radha Jagadeesan, James Riely
 Type-Preserving CPS Translation of Σ and Π Types is Not Not Possible  
 William J. Bowman, Youyou Cong, Nick Rioux, Amal Ahmed  
 ([draft](https://williamjbowman.com/resources/cps-sigma.pdf), [website](https://williamjbowman.com/papers/#cps-sigma))
+
+Typed and Jones Optimal Self-Applicable Partial Evaluation  
+Matt Brown, Jens Palsberg  
 
 Unifying Analytic and Statically-Typed Quasiquotes  
 Lionel Parreaux, Antoine Voizard, Amir Shaikhha, Christoph E. Koch  
