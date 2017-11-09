@@ -159,6 +159,7 @@ Dominique Devriese, Marco Patrignani, Frank Piessens
 
 Program Synthesis using Abstraction Refinement  
 Xinyu Wang, Isil Dillig, Rishabh Singh  
+([preprint](https://arxiv.org/pdf/1710.07740) from [arXiv](https://arxiv.org/abs/1710.07740))
 
 Programming and Proving with Distributed Protocols  
 Ilya Sergey, James R. Wilcox, Zachary Tatlock  
