@@ -84,6 +84,7 @@ Andreas Abel, Andrea Vezzosi, Joakim Öhman
 
 Denotational validation of higher-order Bayesian inference  
 Adam Ścibior, Ohad Kammar, Matthijs Vákár, Sam Staton, Hongseok Yang, Yufei Cai, Klaus Ostermann, Sean Moss, Chris Heunen, Zoubin Ghahramani  
+([preprint])(https://arxiv.org/pdf/1711.03219) from [arXiv](https://arxiv.org/abs/1711.03219))
 
 Effective Stateless Model Checking for C/C++ Concurrency  
 Michalis Kokologiannakis, Ori Lahav, Konstantinos Sagonas, Viktor Vafeiadis  
@@ -98,12 +99,14 @@ Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce
 
 Go with the Flow: Compositional Abstractions for Concurrent Data Structures  
 Siddharth Krishna, Dennis Shasha, Thomas Wies  
+([preprint](https://arxiv.org/pdf/1711.03272) from [arXiv](https://arxiv.org/abs/1711.03272))
 
 Handle with Care: Relational Interpretation of Algebraic Effects and Handlers  
 Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski  
 
 Handling fibred algebraic effects  
 Danel Ahman  
+([preprint](https://danelahman.github.io/papers/popl18.pdf))
 
 Higher-Order Constrained Horn Clauses for Verification  
 Toby Cathcart Burn, C.-H. Luke Ong, Steven Ramsay  
