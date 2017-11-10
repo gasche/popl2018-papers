@@ -84,6 +84,7 @@ Andreas Abel, Andrea Vezzosi, Joakim Öhman
 
 Denotational validation of higher-order Bayesian inference  
 Adam Ścibior, Ohad Kammar, Matthijs Vákár, Sam Staton, Hongseok Yang, Yufei Cai, Klaus Ostermann, Sean Moss, Chris Heunen, Zoubin Ghahramani  
+([preprint])(https://arxiv.org/pdf/1711.03219) from [arXiv](https://arxiv.org/abs/1711.03219))
 
 Effective Stateless Model Checking for C/C++ Concurrency  
 Michalis Kokologiannakis, Ori Lahav, Konstantinos Sagonas, Viktor Vafeiadis  
