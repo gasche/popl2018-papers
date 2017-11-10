@@ -99,6 +99,7 @@ Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce
 
 Go with the Flow: Compositional Abstractions for Concurrent Data Structures  
 Siddharth Krishna, Dennis Shasha, Thomas Wies  
+([preprint](https://arxiv.org/pdf/1711.03272) from [arXiv](https://arxiv.org/abs/1711.03272))
 
 Handle with Care: Relational Interpretation of Algebraic Effects and Handlers  
 Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski  
