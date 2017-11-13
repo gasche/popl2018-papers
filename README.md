@@ -262,6 +262,7 @@ Yuepeng Wang, Isil Dillig, Shuvendu K. Lahiri, William Cook
 
 WebRelate: Integrating Web Data with Spreadsheets using Examples  
 Jeevana Priya Inala, Rishabh Singh  
+([preprint](https://rishabhmit.bitbucket.io/papers/webrelate_popl18.pdf))
 
 What's Decidable About String Constraints with ReplaceAll Function?  
 Taolue Chen, Yan Chen, Matthew Hague, Anthony Widjaja Lin, Zhilin Wu  
