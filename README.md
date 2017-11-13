@@ -118,6 +118,7 @@ Leandro T. C. Melo, Rodrigo Geraldo Ribeiro, Marcus Rodrigues de Araújo, Fernan
 
 Intrinsically-Typed Definitional Interpreters for Imperative Languages  
 Casper Bach Poulsen, Arjen Rouvoet, Andrew Tolmach, Robbert Krebbers, Eelco Visser  
+([preprint](http://casperbp.net/store/intrinsicallytyped.pdf))
 
 JaVerT: JavaScript Verification Toolchain  
 José Fragoso Santos, Philippa Gardner, Petar Maksimović, Daiva Naudziuniene, Thomas Wood  
