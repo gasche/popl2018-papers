@@ -235,6 +235,7 @@ Anders Miltner, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancew
 
 Synthesizing Coupling Proofs of Differential Privacy  
 Aws Albarghouthi, Justin Hsu  
+([preprint](https://arxiv.org/pdf/1709.05361) from [arXiv](https://arxiv.org/abs/1709.05361))
 
 Transactions in Relaxed Memory Architectures  
 Brijesh Dongol, Radha Jagadeesan, James Riely  
