@@ -265,6 +265,7 @@ Jeevana Priya Inala, Rishabh Singh
 
 What's Decidable About String Constraints with ReplaceAll Function?  
 Taolue Chen, Yan Chen, Matthew Hague, Anthony Widjaja Lin, Zhilin Wu  
+([preprint](https://arxiv.org/pdf/1711.03363) from [arXiv](https://arxiv.org/abs/1711.03363))
 
 Why is Random Testing Effective for Partition Tolerance Bugs?  
 Rupak Majumdar, Filip Niksic  
