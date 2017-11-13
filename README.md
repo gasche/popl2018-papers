@@ -188,6 +188,7 @@ Danel Ahman, Cédric Fournet, Cătălin Hriţcu, Kenji Maillard, Aseem Rastogi, 
 
 Reducing Liveness to Safety in First-Order Logic  
 Oded Padon, Jochen Hoenicke, Giuliano Losa, Andreas Podelski, Mooly Sagiv, Sharon Shoham  
+([preprint](http://www.cs.tau.ac.il/~odedp/reducing-liveness-to-safety-in-first-order-logic/popl18-reducing-liveness-to-safety-in-first-order-logic.pdf), [website](http://www.cs.tau.ac.il/~odedp/reducing-liveness-to-safety-in-first-order-logic/))
 
 Refinement Reflection: Complete Verification with SMT  
 Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan Scott, Ryan R. Newton, Philip Wadler, Ranjit Jhala  
