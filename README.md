@@ -259,6 +259,7 @@ Nils Anders Danielsson
 
 Verifying Equivalence of Database-Driven Applications  
 Yuepeng Wang, Isil Dillig, Shuvendu K. Lahiri, William Cook  
+([preprint](https://arxiv.org/pdf/1710.07660) from [arXiv](https://arxiv.org/abs/1710.07660))
 
 WebRelate: Integrating Web Data with Spreadsheets using Examples  
 Jeevana Priya Inala, Rishabh Singh  
