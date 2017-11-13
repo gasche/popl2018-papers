@@ -85,7 +85,7 @@ Andreas Abel, Andrea Vezzosi, Joakim Öhman
 
 Denotational validation of higher-order Bayesian inference  
 Adam Ścibior, Ohad Kammar, Matthijs Vákár, Sam Staton, Hongseok Yang, Yufei Cai, Klaus Ostermann, Sean Moss, Chris Heunen, Zoubin Ghahramani  
-([preprint])(https://arxiv.org/pdf/1711.03219) from [arXiv](https://arxiv.org/abs/1711.03219))
+([preprint](https://arxiv.org/pdf/1711.03219) from [arXiv](https://arxiv.org/abs/1711.03219))
 
 Effective Stateless Model Checking for C/C++ Concurrency  
 Michalis Kokologiannakis, Ori Lahav, Konstantinos Sagonas, Viktor Vafeiadis  
@@ -148,6 +148,7 @@ Ivan Radicek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Florian Zuleger
 
 Non-Linear Reasoning For Invariant Synthesis  
 Jason Breck, John Cyphert, Zachary Kincaid, Thomas Reps  
+([preprint](http://research.cs.wisc.edu/wpis/papers/popl18.pdf))
 
 On Automatically Proving the Correctness of math.h Implementations  
 Wonyeol Lee, Rahul Sharma, Alex Aiken  
@@ -187,6 +188,7 @@ Danel Ahman, Cédric Fournet, Cătălin Hriţcu, Kenji Maillard, Aseem Rastogi, 
 
 Reducing Liveness to Safety in First-Order Logic  
 Oded Padon, Jochen Hoenicke, Giuliano Losa, Andreas Podelski, Mooly Sagiv, Sharon Shoham  
+([preprint](http://www.cs.tau.ac.il/~odedp/reducing-liveness-to-safety-in-first-order-logic/popl18-reducing-liveness-to-safety-in-first-order-logic.pdf), [website](http://www.cs.tau.ac.il/~odedp/reducing-liveness-to-safety-in-first-order-logic/))
 
 Refinement Reflection: Complete Verification with SMT  
 Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan Scott, Ryan R. Newton, Philip Wadler, Ranjit Jhala  
@@ -234,6 +236,7 @@ Anders Miltner, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancew
 
 Synthesizing Coupling Proofs of Differential Privacy  
 Aws Albarghouthi, Justin Hsu  
+([preprint](https://arxiv.org/pdf/1709.05361) from [arXiv](https://arxiv.org/abs/1709.05361))
 
 Transactions in Relaxed Memory Architectures  
 Brijesh Dongol, Radha Jagadeesan, James Riely  
@@ -258,12 +261,15 @@ Nils Anders Danielsson
 
 Verifying Equivalence of Database-Driven Applications  
 Yuepeng Wang, Isil Dillig, Shuvendu K. Lahiri, William Cook  
+([preprint](https://arxiv.org/pdf/1710.07660) from [arXiv](https://arxiv.org/abs/1710.07660))
 
 WebRelate: Integrating Web Data with Spreadsheets using Examples  
 Jeevana Priya Inala, Rishabh Singh  
+([preprint](https://rishabhmit.bitbucket.io/papers/webrelate_popl18.pdf))
 
 What's Decidable About String Constraints with ReplaceAll Function?  
 Taolue Chen, Yan Chen, Matthew Hague, Anthony Widjaja Lin, Zhilin Wu  
+([preprint](https://arxiv.org/pdf/1711.03363) from [arXiv](https://arxiv.org/abs/1711.03363))
 
 Why is Random Testing Effective for Partition Tolerance Bugs?  
 Rupak Majumdar, Filip Niksic  
