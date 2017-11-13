@@ -148,6 +148,7 @@ Ivan Radicek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Florian Zuleger
 
 Non-Linear Reasoning For Invariant Synthesis  
 Jason Breck, John Cyphert, Zachary Kincaid, Thomas Reps  
+([preprint](http://research.cs.wisc.edu/wpis/papers/popl18.pdf))
 
 On Automatically Proving the Correctness of math.h Implementations  
 Wonyeol Lee, Rahul Sharma, Alex Aiken  
