@@ -227,6 +227,7 @@ Azadeh Farzan, Zachary Kincaid
 
 String Constraints with Concatenation and Transducers Solved Efficiently  
 Lukas Holik, Anthony Widjaja Lin, Petr Janku, Philipp Ruemmer, Tomas Vojnar  
+([technical report](https://raw.githubusercontent.com/uuverifiers/sloth/master/papers/popl18-efficient.pdf))
 
 Symbolic Types for Lenient Symbolic Execution  
 Stephen Chang, Alex Knauth, Emina Torlak  
