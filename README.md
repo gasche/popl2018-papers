@@ -42,6 +42,7 @@ Thomas Williams, Didier Rémy
 
 A new proof rule for almost-sure termination  
 Annabelle McIver, Carroll Morgan, Benjamin Lucien Kaminski, Joost-Pieter Katoen  
+([preprint](https://arxiv.org/pdf/1711.03588) from [arXiv](https://arxiv.org/abs/1711.03588))
 
 Algorithmic Analysis of Termination Problems for Quantum Programs  
 Yangjia Li, Mingsheng Ying  
@@ -189,7 +190,7 @@ Oded Padon, Jochen Hoenicke, Giuliano Losa, Andreas Podelski, Mooly Sagiv, Sharo
 
 Refinement Reflection: Complete Verification with SMT  
 Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan Scott, Ryan R. Newton, Philip Wadler, Ranjit Jhala  
-([preprint](https://nikivazou.github.io/static/popl18/refinement-reflection.pdf))
+([preprint](https://arxiv.org/pdf/1711.03842) from [arXiv](https://arxiv.org/abs/1711.03842))
 
 Relatively Complete Refinement Type System for Verification of Higher-Order Non-Deterministic Programs  
 Hiroshi Unno, Yuki Satake, Tachio Terauchi  
@@ -212,6 +213,7 @@ Christopher Pulte, Shaked Flur, Will Deacon, Jon French, Susmit Sarkar, Peter Se
 
 Soft Contract Verification for Higher-order Stateful Programs  
 Phúc C. Nguyễn, Thomas Gilray, Sam Tobin-Hochstadt, David Van Horn  
+([preprint](https://arxiv.org/pdf/1711.03620) from [arXiv](https://arxiv.org/abs/1711.03620))
 
 Sound, Complete, and Tractable Linearizability Monitoring for Concurrent Collections  
 Michael Emmi, Constantin Enea  
