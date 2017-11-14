@@ -89,6 +89,7 @@ Adam Ścibior, Ohad Kammar, Matthijs Vákár, Sam Staton, Hongseok Yang, Yufei C
 
 Effective Stateless Model Checking for C/C++ Concurrency  
 Michalis Kokologiannakis, Ori Lahav, Konstantinos Sagonas, Viktor Vafeiadis  
+([preprint](http://plv.mpi-sws.org/rcmc/paper.pdf), [website](http://plv.mpi-sws.org/rcmc/))
 
 Foundations for Natural Proofs and Quantifier Instantiation  
 Christof Löding, P. Madhusudan, Lucas Peña  
