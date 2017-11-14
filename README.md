@@ -104,6 +104,8 @@ Siddharth Krishna, Dennis Shasha, Thomas Wies
 
 Handle with Care: Relational Interpretation of Algebraic Effects and Handlers  
 Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski  
+([preprint](http://www.ii.uni.wroc.pl/~dabi/publications/POPL18/biernacki-al-popl18.pdf),
+ [coq development](https://bitbucket.org/pl-uwr/aleff-logrel))
 
 Handling fibred algebraic effects  
 Danel Ahman  
