@@ -174,6 +174,7 @@ Dominique Devriese, Marco Patrignani, Frank Piessens
 
 Polyadic Approximations, Fibrations and Intersection Types  
 Damiano Mazza, Luc Pellissier, Pierre Vial  
+([preprint](http://www-lipn.univ-paris13.fr/~mazza/papers/IntersectionTypes.pdf))
 
 Program Synthesis using Abstraction Refinement  
 Xinyu Wang, Isil Dillig, Rishabh Singh  
