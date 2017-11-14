@@ -163,6 +163,7 @@ Wonyeol Lee, Rahul Sharma, Alex Aiken
 
 Online Detection of Effectively Callback Free Objects with Applications to Smart Contracts  
 Shelly Grossman, Ittai Abraham, Guy Golan-Gueta, Yan Michalevsky, Noam Rinetzky, Mooly Sagiv, Yoni Zohar  
+([preprint](http://www.cs.tau.ac.il/~shellygr/pubs/2018-popl-1.pdf))
 
 Optimal Dyck Reachability for Data-dependence and Alias Analysis  
 Krishnendu Chatterjee, Andreas Pavlogiannis, Bhavya Choudhary  
