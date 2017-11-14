@@ -140,6 +140,7 @@ Jean-Philippe Bernardy, Mathieu Boespflug, Ryan R. Newton, Simon Peyton Jones, A
 
 Linearity in Higher-Order Recursion Schemes  
 Pierre Clairambault, Charles Grellois, Andrzej Murawski  
+([preprint](http://perso.ens-lyon.fr/pierre.clairambault/lhors.pdf))
 
 Measurable cones and stable, measurable functions  
 Thomas Ehrhard, Michele Pagani, Christine Tasson  
