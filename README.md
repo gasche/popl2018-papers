@@ -249,6 +249,7 @@ Aws Albarghouthi, Justin Hsu
 
 Transactions in Relaxed Memory Architectures  
 Brijesh Dongol, Radha Jagadeesan, James Riely  
+([preprint](http://bura.brunel.ac.uk/bitstream/2438/15405/1/Fulltext.pdf))
 
 Type-Preserving CPS Translation of Σ and Π Types is Not Not Possible  
 William J. Bowman, Youyou Cong, Nick Rioux, Amal Ahmed  
