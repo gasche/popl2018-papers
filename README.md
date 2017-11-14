@@ -89,6 +89,7 @@ Adam Ścibior, Ohad Kammar, Matthijs Vákár, Sam Staton, Hongseok Yang, Yufei C
 
 Effective Stateless Model Checking for C/C++ Concurrency  
 Michalis Kokologiannakis, Ori Lahav, Konstantinos Sagonas, Viktor Vafeiadis  
+([preprint](http://plv.mpi-sws.org/rcmc/paper.pdf), [website](http://plv.mpi-sws.org/rcmc/))
 
 Foundations for Natural Proofs and Quantifier Instantiation  
 Christof Löding, P. Madhusudan, Lucas Peña  
@@ -139,6 +140,7 @@ Jean-Philippe Bernardy, Mathieu Boespflug, Ryan R. Newton, Simon Peyton Jones, A
 
 Linearity in Higher-Order Recursion Schemes  
 Pierre Clairambault, Charles Grellois, Andrzej Murawski  
+([preprint](http://perso.ens-lyon.fr/pierre.clairambault/lhors.pdf))
 
 Measurable cones and stable, measurable functions  
 Thomas Ehrhard, Michele Pagani, Christine Tasson  
@@ -149,6 +151,7 @@ John Peter Campora III, Sheng Chen, Martin Erwig, Eric Walkingshaw
 
 Monadic refinements for relational cost analysis  
 Ivan Radicek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Florian Zuleger  
+([preprint](https://people.mpi-sws.org/~dg/papers/popl18.pdf))
 
 Non-Linear Reasoning For Invariant Synthesis  
 Jason Breck, John Cyphert, Zachary Kincaid, Thomas Reps  
@@ -160,6 +163,7 @@ Wonyeol Lee, Rahul Sharma, Alex Aiken
 
 Online Detection of Effectively Callback Free Objects with Applications to Smart Contracts  
 Shelly Grossman, Ittai Abraham, Guy Golan-Gueta, Yan Michalevsky, Noam Rinetzky, Mooly Sagiv, Yoni Zohar  
+([preprint](http://www.cs.tau.ac.il/~shellygr/pubs/2018-popl-1.pdf))
 
 Optimal Dyck Reachability for Data-dependence and Alias Analysis  
 Krishnendu Chatterjee, Andreas Pavlogiannis, Bhavya Choudhary  
@@ -245,6 +249,7 @@ Aws Albarghouthi, Justin Hsu
 
 Transactions in Relaxed Memory Architectures  
 Brijesh Dongol, Radha Jagadeesan, James Riely  
+([preprint](http://bura.brunel.ac.uk/bitstream/2438/15405/1/Fulltext.pdf))
 
 Type-Preserving CPS Translation of Σ and Π Types is Not Not Possible  
 William J. Bowman, Youyou Cong, Nick Rioux, Amal Ahmed  
