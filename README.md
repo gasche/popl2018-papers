@@ -151,6 +151,7 @@ John Peter Campora III, Sheng Chen, Martin Erwig, Eric Walkingshaw
 
 Monadic refinements for relational cost analysis  
 Ivan Radicek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Florian Zuleger  
+([preprint](https://people.mpi-sws.org/~dg/papers/popl18.pdf))
 
 Non-Linear Reasoning For Invariant Synthesis  
 Jason Breck, John Cyphert, Zachary Kincaid, Thomas Reps  
