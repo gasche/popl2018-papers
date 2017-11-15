@@ -284,3 +284,4 @@ Taolue Chen, Yan Chen, Matthew Hague, Anthony Widjaja Lin, Zhilin Wu
 
 Why is Random Testing Effective for Partition Tolerance Bugs?  
 Rupak Majumdar, Filip Niksic  
+([preprint](https://people.mpi-sws.org/~fniksic/popl2018/paper.pdf))
