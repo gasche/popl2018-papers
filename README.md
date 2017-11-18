@@ -35,6 +35,7 @@ Amin Timany, Leo Stefanesco, Morten Krogh-Jespersen, Lars Birkedal
 
 A Practical Construction for Decomposing Numerical Abstract Domains  
 Gagandeep Singh, Markus Püschel, Martin Vechev  
+([preprint](http://www.srl.inf.ethz.ch/papers/popl2018.pdf))
 
 A Principled approach to Ornamentation in ML  
 Thomas Williams, Didier Rémy  
