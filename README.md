@@ -111,7 +111,8 @@ Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski
 
 Handling fibred algebraic effects  
 Danel Ahman  
-([preprint](https://danelahman.github.io/papers/popl18.pdf))
+([preprint](https://danelahman.github.io/papers/popl18.pdf),
+ [agda code](https://github.com/danelahman/POPL18))
 
 Higher-Order Constrained Horn Clauses for Verification  
 Toby Cathcart Burn, C.-H. Luke Ong, Steven Ramsay  
