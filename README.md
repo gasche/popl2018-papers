@@ -264,6 +264,7 @@ Matt Brown, Jens Palsberg
 
 Unifying Analytic and Statically-Typed Quasiquotes  
 Lionel Parreaux, Antoine Voizard, Amir Shaikhha, Christoph E. Koch  
+([preprint](https://infoscience.epfl.ch/record/232427/files/[v.2.10]%20qq_unif_popl18.pdf))
 
 Univalent Higher Categories via Complete Semi-Segal Types  
 Paolo Capriotti, Nicolai Kraus  
