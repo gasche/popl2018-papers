@@ -111,7 +111,8 @@ Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski
 
 Handling fibred algebraic effects  
 Danel Ahman  
-([preprint](https://danelahman.github.io/papers/popl18.pdf))
+([preprint](https://danelahman.github.io/papers/popl18.pdf),
+ [agda code](https://github.com/danelahman/POPL18))
 
 Higher-Order Constrained Horn Clauses for Verification  
 Toby Cathcart Burn, C.-H. Luke Ong, Steven Ramsay  
@@ -172,6 +173,7 @@ Krishnendu Chatterjee, Andreas Pavlogiannis, Bhavya Choudhary
 
 Parametricity versus the Universal Type  
 Dominique Devriese, Marco Patrignani, Frank Piessens  
+([preprint](https://people.mpi-sws.org/~marcopat/marcopat/Publications_files/poly-seal-no.pdf))
 
 Polyadic Approximations, Fibrations and Intersection Types  
 Damiano Mazza, Luc Pellissier, Pierre Vial  
