@@ -146,6 +146,7 @@ Pierre Clairambault, Charles Grellois, Andrzej Murawski
 
 Measurable cones and stable, measurable functions  
 Thomas Ehrhard, Michele Pagani, Christine Tasson  
+([preprint](https://arxiv.org/pdf/1711.09640) from [arXiv](https://arxiv.org/abs/1711.09640))
 
 Migrating Gradual Types  
 John Peter Campora III, Sheng Chen, Martin Erwig, Eric Walkingshaw  
