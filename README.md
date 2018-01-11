@@ -31,7 +31,7 @@ the line.
 
 A Logical Relation for Monadic Encapsulation of State: Proving contextual equivalences in the presence of runST  
 Amin Timany, Leo Stefanesco, Morten Krogh-Jespersen, Lars Birkedal  
-([preprint](http://iris-project.org/pdfs/2018-popl-runST-submission.pdf))
+([print](http://iris-project.org/pdfs/2018-popl-runST-final.pdf))
 
 A Practical Construction for Decomposing Numerical Abstract Domains  
 Gagandeep Singh, Markus Püschel, Martin Vechev  
