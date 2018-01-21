@@ -71,7 +71,7 @@ Kartik Chandra, Rastislav Bodik
 
 Collapsing Towers of Interpreters  
 Nada Amin, Tiark Rompf  
-([draft](http://cs.purdue.edu/~rompf/papers/amin-draft2017a.pdf))
+([print](http://lampwww.epfl.ch/~amin/pub/collapsing-towers.pdf), [code](https://github.com/TiarkRompf/collapsing-towers/tree/master/popl18))
 
 Correctness of Speculative Optimizations with Dynamic Deoptimization  
 Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, Jan Vitek  
@@ -83,6 +83,7 @@ Krishnendu Chatterjee, Marek Chalupa, Andreas Pavlogiannis, Nishant Sinha, Kapil
 
 Decidability of Conversion for Type Theory in Type Theory  
 Andreas Abel, Andrea Vezzosi, Joakim Öhman  
+([print](http://www.cse.chalmers.se/~abela/popl18.pdf), [agda code](https://github.com/mr-ohman/logrel-mltt))
 
 Denotational validation of higher-order Bayesian inference  
 Adam Ścibior, Ohad Kammar, Matthijs Vákár, Sam Staton, Hongseok Yang, Yufei Cai, Klaus Ostermann, Sean Moss, Chris Heunen, Zoubin Ghahramani  
