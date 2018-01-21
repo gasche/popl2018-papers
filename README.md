@@ -83,6 +83,7 @@ Krishnendu Chatterjee, Marek Chalupa, Andreas Pavlogiannis, Nishant Sinha, Kapil
 
 Decidability of Conversion for Type Theory in Type Theory  
 Andreas Abel, Andrea Vezzosi, Joakim Öhman  
+([print](http://www.cse.chalmers.se/~abela/popl18.pdf), [agda code](https://github.com/mr-ohman/logrel-mltt))
 
 Denotational validation of higher-order Bayesian inference  
 Adam Ścibior, Ohad Kammar, Matthijs Vákár, Sam Staton, Hongseok Yang, Yufei Cai, Klaus Ostermann, Sean Moss, Chris Heunen, Zoubin Ghahramani  
