@@ -247,7 +247,7 @@ Stephen Chang, Alex Knauth, Emina Torlak
 
 Synthesizing Bijective Lenses  
 Anders Miltner, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic  
-([preprint](https://arxiv.org/pdf/1707.02466) from [arXiv](https://arxiv.org/abs/1707.02466))
+([preprint](https://arxiv.org/pdf/1710.03248) from [arXiv](https://arxiv.org/abs/1710.03248))
 
 Synthesizing Coupling Proofs of Differential Privacy  
 Aws Albarghouthi, Justin Hsu  
