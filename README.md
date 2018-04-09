@@ -39,7 +39,7 @@ Gagandeep Singh, Markus Püschel, Martin Vechev
 
 A Principled approach to Ornamentation in ML  
 Thomas Williams, Didier Rémy  
-([draft](http://pauillac.inria.fr/~remy/ornaments/mlorn-2017-09.pdf))
+([preprint](https://hal.inria.fr/hal-01666104/document) from [HAL](https://hal.inria.fr/hal-01666104/), [extended preprint](https://hal.inria.fr/hal-01628060/document) from [HAL](https://hal.inria.fr/hal-01628060), [website](http://pauillac.inria.fr/~remy/ornaments/))
 
 A new proof rule for almost-sure termination  
 Annabelle McIver, Carroll Morgan, Benjamin Lucien Kaminski, Joost-Pieter Katoen  
