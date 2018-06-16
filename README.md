@@ -233,9 +233,11 @@ Phúc C. Nguyễn, Thomas Gilray, Sam Tobin-Hochstadt, David Van Horn
 
 Sound, Complete, and Tractable Linearizability Monitoring for Concurrent Collections  
 Michael Emmi, Constantin Enea  
+([preprint](https://www.irif.fr/~cenea/papers/popl2018.pdf))
 
 Strategy Synthesis for Linear Arithmetic Games  
 Azadeh Farzan, Zachary Kincaid  
+([preprint](https://www.cs.princeton.edu/~zkincaid/pub/popl18b.pdf))
 
 String Constraints with Concatenation and Transducers Solved Efficiently  
 Lukas Holik, Anthony Widjaja Lin, Petr Janku, Philipp Ruemmer, Tomas Vojnar  
